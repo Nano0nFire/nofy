@@ -1,0 +1,241 @@
+(footprint "MagneticPogoPin1x4"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -11.15 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "9a952f55-bda5-4178-a30b-de31acf8a911")
+		(effects
+			(font
+				(size 0.635 0.635)
+				(thickness 0.1016)
+			)
+		)
+	)
+	(property "Value" "MagneticPogoPin1x4"
+		(at 0.075 0.075 90)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "358f335e-efb4-41ca-acce-735c4f6ab5f4")
+		(effects
+			(font
+				(size 0.635 0.635)
+				(thickness 0.1016)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0.045 -0.955 90)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bbe422a7-080c-4988-b975-2c6fa8bed1e6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0.045 -0.955 90)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0d31ff20-324d-4caf-9af9-a271178a1b11")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -6.7 0.9)
+		(end -6.7 8.3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "ca0d1112-6c60-406a-bd82-19a8422b4fb1")
+	)
+	(fp_line
+		(start -6.7 0.9)
+		(end -5.7 0.9)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "5a9599dd-d66e-45c9-a785-323b4e60104c")
+	)
+	(fp_line
+		(start -6.7 8.3)
+		(end -5.7 8.3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "db552283-30eb-417d-8f02-b5527c7c3772")
+	)
+	(fp_line
+		(start -5.7 -7.95)
+		(end -5.7 17.05)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "db57ff5d-dd9b-4e0a-9bbe-f262c71941e8")
+	)
+	(fp_line
+		(start -2 -7.9)
+		(end -2 17.1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "4a69c35c-6d33-4268-abbc-9493773f038b")
+	)
+	(fp_line
+		(start 0.03 0.03)
+		(end 2.57 0.03)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "00599fb7-7354-4b48-936c-84fa5256a0fc")
+	)
+	(fp_line
+		(start 0.03 9.17)
+		(end 0.03 0.03)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fa51ff0a-3e46-4ee7-bf10-afaf02b1541d")
+	)
+	(fp_line
+		(start 2.57 0.03)
+		(end 2.574982 9.17)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c11c5906-d97f-4c98-afb6-660eb187f816")
+	)
+	(fp_line
+		(start 2.57 9.17)
+		(end 0.03 9.17)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ddf5ff9b-88a8-47e9-bab3-d7d653ddc269")
+	)
+	(pad "1" thru_hole circle
+		(at 1.3 1.3)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "3dcb2fd1-7e8a-469c-b9cc-a72f269881cf")
+	)
+	(pad "2" thru_hole oval
+		(at 1.3 3.5)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "0a0828f7-b1ff-4da6-b467-4978fdf9ec60")
+	)
+	(pad "3" thru_hole oval
+		(at 1.3 5.7)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "9e4f60c5-8269-4290-9dc0-bc04f2318245")
+	)
+	(pad "4" thru_hole oval
+		(at 1.3 7.9)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5da0a22e-638d-4f71-af18-d141346c714d")
+	)
+	(embedded_fonts no)
+	(model "${AMZPATH}/3dmodels/AMz3D.3dshapes/XIAO-nRF52840 v15.step"
+		(hide yes)
+		(offset
+			(xyz -1.778 -6.096 0.381)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+	(model "${AMZPATH}/3dmodels/AMz3D.3dshapes/Seeeduino XIAO SAMD21 v4.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${AMZPATH}/3dmodels/AMz3D.3dshapes/Seeed Studio XIAO RP2040 v26.step"
+		(hide yes)
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 90)
+		)
+	)
+	(model "${AMZPATH}/3dmodels/AMz3D.3dshapes/Seeed Studio XIAO-ESP32-C3.step"
+		(hide yes)
+		(offset
+			(xyz -1.7018 -6.096 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+	(model "${AMZPATH}/3dmodels/AMz3D.3dshapes/XIAO-ESP32S3 v2.step"
+		(hide yes)
+		(offset
+			(xyz -1.778 -6.1722 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

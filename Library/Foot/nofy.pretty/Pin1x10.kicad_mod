@@ -1,0 +1,239 @@
+(footprint "Pin1x10"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -11.15 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "9a952f55-bda5-4178-a30b-de31acf8a911")
+		(effects
+			(font
+				(size 0.635 0.635)
+				(thickness 0.1016)
+			)
+		)
+	)
+	(property "Value" "Pin1x10"
+		(at 0.075 0.075 90)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "358f335e-efb4-41ca-acce-735c4f6ab5f4")
+		(effects
+			(font
+				(size 0.635 0.635)
+				(thickness 0.1016)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0.075 0.075 90)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bbe422a7-080c-4988-b975-2c6fa8bed1e6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0.075 0.075 90)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0d31ff20-324d-4caf-9af9-a271178a1b11")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start 0.03 0.03)
+		(end 2.57 0.03)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "00599fb7-7354-4b48-936c-84fa5256a0fc")
+	)
+	(fp_line
+		(start 0.03 25.43)
+		(end 0.03 0.03)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fa51ff0a-3e46-4ee7-bf10-afaf02b1541d")
+	)
+	(fp_line
+		(start 2.57 25.43)
+		(end 0.03 25.43)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ddf5ff9b-88a8-47e9-bab3-d7d653ddc269")
+	)
+	(fp_line
+		(start 2.579987 0.03)
+		(end 2.57 25.43)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c11c5906-d97f-4c98-afb6-660eb187f816")
+	)
+	(pad "1" thru_hole circle
+		(at 1.3 1.3)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "3dcb2fd1-7e8a-469c-b9cc-a72f269881cf")
+	)
+	(pad "2" thru_hole oval
+		(at 1.3 3.84)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "0a0828f7-b1ff-4da6-b467-4978fdf9ec60")
+	)
+	(pad "3" thru_hole oval
+		(at 1.3 6.38)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "9e4f60c5-8269-4290-9dc0-bc04f2318245")
+	)
+	(pad "4" thru_hole oval
+		(at 1.3 8.92)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5da0a22e-638d-4f71-af18-d141346c714d")
+	)
+	(pad "5" thru_hole oval
+		(at 1.3 11.46)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8a5a473f-039b-4aab-9fac-b24c3bece901")
+	)
+	(pad "6" thru_hole oval
+		(at 1.3 14)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "862d85c8-2823-4a9c-b8c7-c55452100782")
+	)
+	(pad "7" thru_hole oval
+		(at 1.3 16.54)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f3d7e11f-1e7c-4f0c-b4c6-d619c9ae119b")
+	)
+	(pad "8" thru_hole oval
+		(at 1.3 19.08)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "17ce447d-520e-40d0-a5c5-770861ab2e81")
+	)
+	(pad "9" thru_hole oval
+		(at 1.3 21.62)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "643bc541-5e91-4895-b309-c06499e31c9d")
+	)
+	(pad "10" thru_hole oval
+		(at 1.3 24.16)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "9acb49d7-2a33-4116-a560-aedd803b29d2")
+	)
+	(embedded_fonts no)
+	(model "${AMZPATH}/3dmodels/AMz3D.3dshapes/XIAO-nRF52840 v15.step"
+		(hide yes)
+		(offset
+			(xyz -1.778 -6.096 0.381)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+	(model "${AMZPATH}/3dmodels/AMz3D.3dshapes/Seeeduino XIAO SAMD21 v4.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${AMZPATH}/3dmodels/AMz3D.3dshapes/Seeed Studio XIAO RP2040 v26.step"
+		(hide yes)
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 90)
+		)
+	)
+	(model "${AMZPATH}/3dmodels/AMz3D.3dshapes/Seeed Studio XIAO-ESP32-C3.step"
+		(hide yes)
+		(offset
+			(xyz -1.7018 -6.096 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+	(model "${AMZPATH}/3dmodels/AMz3D.3dshapes/XIAO-ESP32S3 v2.step"
+		(hide yes)
+		(offset
+			(xyz -1.778 -6.1722 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)
