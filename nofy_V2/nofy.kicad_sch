@@ -5664,7 +5664,7 @@
 			)
 		)
 	)
-	(global_label "col0"
+	(global_label "Col0"
 		(shape input)
 		(at 119.38 107.95 0)
 		(fields_autoplaced yes)
@@ -5676,11 +5676,12 @@
 		)
 		(uuid "08749364-6dfd-4473-ace2-0189e113bb85")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 318.77 156.21 0)
+			(at 126.6589 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -5861,7 +5862,7 @@
 			)
 		)
 	)
-	(global_label "col3"
+	(global_label "Col3"
 		(shape input)
 		(at 119.38 100.33 0)
 		(fields_autoplaced yes)
@@ -5873,11 +5874,12 @@
 		)
 		(uuid "178ff7c5-cc96-40b7-a21e-74f15f0cb8b3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 318.77 156.21 0)
+			(at 126.6589 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -6256,7 +6258,7 @@
 			)
 		)
 	)
-	(global_label "col1"
+	(global_label "Col1"
 		(shape input)
 		(at 119.38 105.41 0)
 		(fields_autoplaced yes)
@@ -6268,11 +6270,12 @@
 		)
 		(uuid "655ceebc-0cd8-4eb2-a6a1-d1a2d5b7f8ae")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 318.77 156.21 0)
+			(at 126.6589 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -6321,7 +6324,7 @@
 			)
 		)
 	)
-	(global_label "col2"
+	(global_label "Col2"
 		(shape input)
 		(at 119.38 102.87 0)
 		(fields_autoplaced yes)
@@ -6333,11 +6336,12 @@
 		)
 		(uuid "73df2167-b824-499e-afb4-7c03ff1f40b2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 318.77 156.21 0)
+			(at 126.6589 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -6518,7 +6522,7 @@
 			)
 		)
 	)
-	(global_label "col4"
+	(global_label "Col4"
 		(shape input)
 		(at 119.38 97.79 0)
 		(fields_autoplaced yes)
@@ -6530,11 +6534,12 @@
 		)
 		(uuid "925c55c7-b079-46dd-9ec9-84dc6d6efcb9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 318.77 156.21 0)
+			(at 126.6589 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -7067,7 +7072,7 @@
 			)
 		)
 	)
-	(global_label "col5"
+	(global_label "Col5"
 		(shape input)
 		(at 119.38 95.25 0)
 		(fields_autoplaced yes)
@@ -7079,11 +7084,12 @@
 		)
 		(uuid "f7312a15-1034-43e5-9d7d-e25aa6a7338f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 318.77 156.21 0)
+			(at 126.6589 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
