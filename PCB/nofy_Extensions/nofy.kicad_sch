@@ -7602,7 +7602,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+		(property "Footprint" "nofy:MountingHole_2.2mm_M2"
 			(at 217.17 228.6 0)
 			(effects
 				(font
@@ -7814,7 +7814,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+		(property "Footprint" "nofy:MountingHole_2.2mm_M2"
 			(at 198.12 228.6 0)
 			(effects
 				(font
@@ -10438,7 +10438,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+		(property "Footprint" "nofy:MountingHole_2.2mm_M2"
 			(at 285.75 113.03 0)
 			(effects
 				(font
@@ -10643,7 +10643,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+		(property "Footprint" "nofy:MountingHole_2.2mm_M2"
 			(at 250.19 113.03 0)
 			(effects
 				(font
@@ -12002,7 +12002,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+		(property "Footprint" "nofy:MountingHole_2.2mm_M2"
 			(at 213.36 113.03 0)
 			(effects
 				(font
@@ -12351,7 +12351,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+		(property "Footprint" "nofy:MountingHole_2.2mm_M2"
 			(at 194.31 113.03 0)
 			(effects
 				(font
@@ -14432,7 +14432,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+		(property "Footprint" "nofy:MountingHole_2.2mm_M2"
 			(at 254 228.6 0)
 			(effects
 				(font
@@ -16016,7 +16016,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+		(property "Footprint" "nofy:MountingHole_2.2mm_M2"
 			(at 271.78 228.6 0)
 			(effects
 				(font
@@ -16218,7 +16218,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+		(property "Footprint" "nofy:MountingHole_2.2mm_M2"
 			(at 267.97 113.03 0)
 			(effects
 				(font
@@ -16567,7 +16567,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+		(property "Footprint" "nofy:MountingHole_2.2mm_M2"
 			(at 236.22 228.6 0)
 			(effects
 				(font
@@ -18649,7 +18649,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+		(property "Footprint" "nofy:MountingHole_2.2mm_M2"
 			(at 232.41 113.03 0)
 			(effects
 				(font
@@ -18717,7 +18717,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+		(property "Footprint" "nofy:MountingHole_2.2mm_M2"
 			(at 289.56 228.6 0)
 			(effects
 				(font
