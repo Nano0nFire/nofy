@@ -96,7 +96,7 @@
     (clearance_class default)
     (via_rule default)
     (rule
-      (width 300.0)
+      (width 320.0)
     )
     (circuit 
       (use_layer F.Cu B.Cu)
