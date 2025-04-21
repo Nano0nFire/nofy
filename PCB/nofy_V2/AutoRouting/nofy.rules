@@ -77,10 +77,10 @@
     INTR1 Pin0 Pin1 Pin2 Pin3 Pin4 Pin5 Pin6
     Pin7 Pin8 Pin9 Pin10 Pin11 "unconnected-(J9-nc-Pad5)" "Net-(J21-Pin_3)" "Net-(J21-Pin_1)"
     "Net-(J21-Pin_2)" "Net-(Con_L_1-Pin_3)" "Net-(Con_L_1-Pin_1)" "Net-(Con_L_1-Pin_2)" "Net-(Con_L_1-Pin_4)" "Net-(Con_L_3-Pin_4)" "Net-(Con_L_3-Pin_2)" "Net-(Con_L_3-Pin_1)"
-    "Net-(Con_L_3-Pin_3)" "unconnected-(Con_L_4-Pin_3-Pad3)" "Net-(Con_L_5-Pin_4)" "Net-(Con_L_5-Pin_1)" "Net-(Con_L_5-Pin_3)" "unconnected-(Con_L_6-Pin_2-Pad2)" "unconnected-(Con_L_6-Pin_3-Pad3)" "unconnected-(Con_L_6-Pin_4-Pad4)"
-    "unconnected-(Con_L_6-Pin_1-Pad1)" "Net-(Con_L_7-Pin_1)" "Net-(Con_L_7-Pin_3)" "Net-(Con_L_7-Pin_2)" "Net-(Con_L_7-Pin_4)" "Net-(Con_L_9-Pin_1)" "Net-(Con_L_9-Pin_4)" "Net-(Con_L_9-Pin_3)"
-    "Net-(Con_L_9-Pin_2)" "Net-(Con_L_11-Pin_1)" "Net-(Con_L_11-Pin_3)" "Net-(Con_L_11-Pin_4)" "Net-(Con_L_11-Pin_2)" "Net-(Con_L_13-Pin_4)" "Net-(Con_L_13-Pin_1)" "Net-(Con_L_13-Pin_3)"
-    "Net-(Con_L_15-Pin_4)" "Net-(Con_L_15-Pin_2)" "Net-(Con_L_15-Pin_3)" "Net-(Con_L_15-Pin_1)"
+    "Net-(Con_L_3-Pin_3)" "unconnected-(Con_L_4-Pin_3-Pad3)" "Net-(Con_L_5-Pin_4)" "Net-(Con_L_5-Pin_1)" "Net-(Con_L_5-Pin_3)" "unconnected-(Con_L_0-Pin_1-Pad1)" "unconnected-(Con_L_6-Pin_4-Pad4)" "unconnected-(Con_L_2-Pin_2-Pad2)"
+    "Net-(Con_L_7-Pin_1)" "Net-(Con_L_7-Pin_3)" "Net-(Con_L_7-Pin_2)" "Net-(Con_L_7-Pin_4)" "Net-(Con_L_9-Pin_1)" "Net-(Con_L_9-Pin_4)" "Net-(Con_L_9-Pin_3)" "Net-(Con_L_9-Pin_2)"
+    "Net-(Con_L_11-Pin_1)" "Net-(Con_L_11-Pin_3)" "Net-(Con_L_11-Pin_4)" "Net-(Con_L_11-Pin_2)" "Net-(Con_L_13-Pin_4)" "Net-(Con_L_13-Pin_1)" "Net-(Con_L_13-Pin_3)" "Net-(Con_L_15-Pin_4)"
+    "Net-(Con_L_15-Pin_2)" "Net-(Con_L_15-Pin_3)" "Net-(Con_L_15-Pin_1)" "unconnected-(Con_L_2-Pin_1-Pad1)"
     (clearance_class "kicad_default")
     (via_rule "kicad_default")
     (rule
@@ -96,7 +96,7 @@
     (clearance_class default)
     (via_rule default)
     (rule
-      (width 320.0)
+      (width 330.0)
     )
     (circuit 
       (use_layer F.Cu B.Cu)

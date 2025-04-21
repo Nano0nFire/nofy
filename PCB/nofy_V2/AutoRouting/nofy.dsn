@@ -269,82 +269,77 @@
   )
   (placement
     (component _kicad_footprints:Diode_SMD
-      (place D14 49846.875000 -32900.000000 front 0.000000 (PN D))
-      (place DS3 35796.900000 -51950.000000 front 0.000000 (PN D))
-      (place D26 42496.875000 -68150.000000 front 0.000000 (PN D))
+      (place D31 136953.100000 -34750.000000 front 180.000000 (PN D))
     )
     (component _kicad_footprints:Diode_SMD::1
-      (place DS10 171346.875000 -51650.000000 front 0.000000 (PN D))
-      (place DI7 140796.875000 -27900.000000 front 0.000000 (PN D))
+      (place DS10 171346.900000 -51650.000000 front 0.000000 (PN D))
+      (place DS5 57096.900000 -42550.000000 front 0.000000 (PN D))
+      (place DI7 140796.900000 -27900.000000 front 0.000000 (PN D))
       (place D37 143700.000000 -54050.000000 front 0.000000 (PN D))
-      (place DS4 36146.850000 -68150.000000 front 0.000000 (PN D))
-      (place D20 56946.875000 -38450.000000 front 0.000000 (PN D))
-      (place D9 2346.875000 -38000.000000 front 0.000000 (PN D))
+      (place D26 42496.900000 -68150.000000 front 0.000000 (PN D))
+      (place DS4 36146.900000 -68150.000000 front 0.000000 (PN D))
+      (place D14 49846.900000 -32900.000000 front 0.000000 (PN D))
+      (place D20 56946.900000 -38450.000000 front 0.000000 (PN D))
+      (place D9 2346.900000 -38000.000000 front 0.000000 (PN D))
       (place DS2 35800.000000 -50350.000000 front 0.000000 (PN D))
-      (place DS8 149346.875000 -37550.000000 front 0.000000 (PN D))
-      (place D32 111146.875000 -70550.000000 front 0.000000 (PN D))
+      (place D23 56196.900000 -24150.000000 front 0.000000 (PN D))
+      (place D3 3346.900000 -70750.000000 front 0.000000 (PN D))
+      (place DS8 149346.900000 -37550.000000 front 0.000000 (PN D))
+      (place D32 111146.900000 -70550.000000 front 0.000000 (PN D))
+      (place D2 10796.900000 -65350.000000 front 0.000000 (PN D))
       (place D24 43646.900000 -50300.000000 front 0.000000 (PN D))
-      (place D49 184596.875000 -49250.000000 front 0.000000 (PN D))
-      (place D36 149346.875000 -39700.000000 front 0.000000 (PN D))
-      (place D17 53096.875000 -77900.000000 front 0.000000 (PN D))
+      (place D49 184596.900000 -49250.000000 front 0.000000 (PN D))
+      (place D36 149346.900000 -39700.000000 front 0.000000 (PN D))
+      (place D17 53096.900000 -77900.000000 front 0.000000 (PN D))
       (place DI9 140796.900000 -31750.000000 front 0.000000 (PN D))
-      (place D47 136953.125000 -30250.000000 front 180.000000 (PN D))
       (place D6 10796.900000 -63050.000000 front 0.000000 (PN D))
-      (place D51 187146.875000 -79250.000000 front 0.000000 (PN D))
-      (place DS7 154696.875000 -29250.000000 front 0.000000 (PN D))
-      (place D19 49846.875000 -34950.000000 front 0.000000 (PN D))
-      (place D35 136953.150000 -27900.000000 front 180.000000 (PN D))
+      (place D51 187146.900000 -79250.000000 front 0.000000 (PN D))
+      (place D41 184596.800000 -47250.000000 front 0.000000 (PN D))
+      (place DS7 154696.900000 -29250.000000 front 0.000000 (PN D))
+      (place D19 49846.900000 -34950.000000 front 0.000000 (PN D))
       (place DS9 157873.400000 -45400.000000 front 0.000000 (PN D))
-      (place DI5 43746.875000 -38700.000000 front 0.000000 (PN D))
-      (place DI4 43746.875000 -36800.000000 front 0.000000 (PN D))
-      (place D5 2346.875000 -36000.000000 front 0.000000 (PN D))
-      (place DI10 140796.875000 -33750.000000 front 0.000000 (PN D))
-      (place D22 53096.875000 -75750.000000 front 0.000000 (PN D))
+      (place DI5 43746.900000 -38700.000000 front 0.000000 (PN D))
+      (place DI4 43746.900000 -36800.000000 front 0.000000 (PN D))
+      (place D5 2346.900000 -36000.000000 front 0.000000 (PN D))
+      (place D40 152796.900000 -35700.000000 front 0.000000 (PN D))
+      (place DI10 140796.900000 -33750.000000 front 0.000000 (PN D))
+      (place D22 53096.900000 -75750.000000 front 0.000000 (PN D))
       (place DI11 140796.900000 -35700.000000 front 0.000000 (PN D))
-      (place D48 185746.875000 -30850.000000 front 0.000000 (PN D))
-      (place D21 42496.875000 -73050.000000 front 0.000000 (PN D))
-      (place D33 111246.875000 -79400.000000 front 0.000000 (PN D))
-      (place DI2 43746.875000 -32900.000000 front 0.000000 (PN D))
-      (place D7 3346.875000 -68400.000000 front 0.000000 (PN D))
-      (place DI3 43746.875000 -34900.000000 front 0.000000 (PN D))
-      (place D15 56996.875000 -40400.000000 front 0.000000 (PN D))
-      (place D45 184596.850000 -45400.000000 front 0.000000 (PN D))
+      (place D48 185746.900000 -30850.000000 front 0.000000 (PN D))
+      (place DS1 52796.900000 -25700.000000 front 0.000000 (PN D))
+      (place D21 42496.900000 -73050.000000 front 0.000000 (PN D))
+      (place D33 111246.900000 -79400.000000 front 0.000000 (PN D))
+      (place D13 2346.900000 -34000.000000 front 0.000000 (PN D))
+      (place DI2 43746.900000 -32900.000000 front 0.000000 (PN D))
+      (place DS3 35796.900000 -51950.000000 front 0.000000 (PN D))
+      (place D7 3346.900000 -68400.000000 front 0.000000 (PN D))
+      (place DI3 43746.900000 -34900.000000 front 0.000000 (PN D))
+      (place D15 56996.900000 -40400.000000 front 0.000000 (PN D))
+      (place D45 184596.900000 -45400.000000 front 0.000000 (PN D))
       (place D46 177296.900000 -51650.000000 front 0.000000 (PN D))
+      (place D29 111146.900000 -72950.000000 front 0.000000 (PN D))
+      (place D39 154696.900000 -26850.000000 front 0.000000 (PN D))
       (place DS6 43696.900000 -27350.000000 front 0.000000 (PN D))
-      (place D18 56246.875000 -27200.000000 front 0.000000 (PN D))
+      (place D18 56246.900000 -27200.000000 front 0.000000 (PN D))
       (place D25 43646.900000 -51950.000000 front 0.000000 (PN D))
-      (place D44 185746.875000 -28750.000000 front 0.000000 (PN D))
+      (place D44 185746.900000 -28750.000000 front 0.000000 (PN D))
+      (place D1 35746.900000 -48650.000000 front 0.000000 (PN D))
+      (place D30 111246.900000 -81500.000000 front 0.000000 (PN D))
+      (place D11 42496.900000 -70650.000000 front 0.000000 (PN D))
       (place DI6 43746.900000 -28950.000000 front 0.000000 (PN D))
-      (place DI8 140796.875000 -29850.000000 front 0.000000 (PN D))
-      (place D50 177296.875000 -53850.000000 front 0.000000 (PN D))
+      (place DI8 140796.900000 -29850.000000 front 0.000000 (PN D))
+      (place D50 177296.900000 -53850.000000 front 0.000000 (PN D))
+      (place D28 143700.000000 -51600.000000 front 0.000000 (PN D))
       (place D16 52100.000000 -70109.400000 front 0.000000 (PN D))
-      (place D27 52096.875000 -72150.000000 front 0.000000 (PN D))
+      (place D10 36196.900000 -58550.000000 front 0.000000 (PN D))
+      (place D27 52096.900000 -72150.000000 front 0.000000 (PN D))
       (place DS11 140796.900000 -37700.000000 front 0.000000 (PN D))
-      (place DI1 43746.875000 -30900.000000 front 0.000000 (PN D))
+      (place DI1 43746.900000 -30900.000000 front 0.000000 (PN D))
     )
     (component _kicad_footprints:Diode_SMD::2
       (place D4 300350.000000 -60973.400000 front -90.000000 (PN D))
       (place D8 283300.000000 -60973.400000 front -90.000000 (PN D))
       (place D12 266250.000000 -60946.900000 front -90.000000 (PN D))
-    )
-    (component _kicad_footprints:Diode_SMD::3
-      (place DS5 57096.875000 -42550.000000 front 0.000000 (PN D))
-      (place D23 56196.875000 -24150.000000 front 0.000000 (PN D))
-      (place D3 3346.875000 -70750.000000 front 0.000000 (PN D))
-      (place D2 10796.875000 -65350.000000 front 0.000000 (PN D))
-      (place D31 136953.125000 -34750.000000 front 180.000000 (PN D))
-      (place D41 184596.825000 -47250.000000 front 0.000000 (PN D))
-      (place D40 152796.875000 -35700.000000 front 0.000000 (PN D))
-      (place DS1 52796.875000 -25700.000000 front 0.000000 (PN D))
-      (place D13 2346.850000 -34000.000000 front 0.000000 (PN D))
-      (place D29 111146.875000 -72950.000000 front 0.000000 (PN D))
-      (place D39 154696.875000 -26850.000000 front 0.000000 (PN D))
-      (place D1 35746.875000 -48650.000000 front 0.000000 (PN D))
-      (place D43 136953.125000 -32600.000000 front 180.000000 (PN D))
-      (place D30 111246.875000 -81500.000000 front 0.000000 (PN D))
-      (place D11 42496.875000 -70650.000000 front 0.000000 (PN D))
-      (place D28 143700.000000 -51600.000000 front 0.000000 (PN D))
-      (place D10 36196.875000 -58550.000000 front 0.000000 (PN D))
     )
     (component nofy:Choc_v2_Hotswap_1u_17mm
       (place SW6 -600.000000 -66700.000000 front 180.000000 (PN SW_PUSH))
@@ -430,7 +425,7 @@
       (place Hole9 225850.000000 -92650.000000 front 0.000000 (PN MountingHole_2.2mm_M2))
       (place Hole5 186600.000000 -41200.000000 front 0.000000 (PN MountingHole_2.2mm_M2))
     )
-    (component _kicad_footprints:Diode_SMD::4
+    (component _kicad_footprints:Diode_SMD::3
       (place D34 292500.000000 -46903.100000 front 90.000000 (PN D))
       (place D42 258500.000000 -46803.100000 front 90.000000 (PN D))
       (place D38 275500.000000 -46853.100000 front 90.000000 (PN D))
@@ -448,6 +443,11 @@
     (component nofy:Pin1x4::1
       (place J21 287370.000000 -49750.000000 front -90.000000 (PN PIn1x4))
       (place J33 281550.000000 -46650.000000 front -90.000000 (PN PIn1x4))
+    )
+    (component _kicad_footprints:Diode_SMD::4
+      (place D47 136953.100000 -30250.000000 front 180.000000 (PN D))
+      (place D35 136953.200000 -27900.000000 front 180.000000 (PN D))
+      (place D43 136953.100000 -32600.000000 front 180.000000 (PN D))
     )
     (component nofy:Choc_v2_Hotswap_1u_17mm::6
       (place SW31 84400.000000 -83700.000000 front -90.000000 (PN SW_PUSH))
@@ -497,13 +497,13 @@
   )
   (library
     (image _kicad_footprints:Diode_SMD
-      (outline (path signal 200  3571.89 -595.314  3571.89 595.314))
-      (outline (path signal 200  3571.89 0  3770.32 0))
-      (outline (path signal 200  3571.89 595.314  1984.38 595.314))
-      (outline (path signal 200  2381.26 -595.314  2381.26 595.314))
-      (outline (path signal 200  1984.38 -595.314  3571.89 -595.314))
-      (outline (path signal 200  1984.38 595.314  1984.38 -595.314))
       (outline (path signal 200  1785.94 0  1984.38 0))
+      (outline (path signal 200  1984.38 595.314  1984.38 -595.314))
+      (outline (path signal 200  1984.38 -595.314  3571.89 -595.314))
+      (outline (path signal 200  2381.26 -595.314  2381.26 595.314))
+      (outline (path signal 200  3571.89 595.314  1984.38 595.314))
+      (outline (path signal 200  3571.89 0  3770.32 0))
+      (outline (path signal 200  3571.89 -595.314  3571.89 595.314))
       (pin Rect[B]Pad_1200.000000x950.000000_um 2 4503.12 0)
       (pin Rect[B]Pad_1200.000000x950.000000_um 1 1053.12 0)
     )
@@ -526,17 +526,6 @@
       (outline (path signal 200  3571.89 0  3770.32 0))
       (outline (path signal 200  1984.38 595.314  1984.38 -595.314))
       (outline (path signal 200  3571.89 595.314  1984.38 595.314))
-      (pin Rect[B]Pad_1200.000000x950.000000_um 1 1053.12 0)
-      (pin Rect[B]Pad_1200.000000x950.000000_um 2 4503.12 0)
-    )
-    (image _kicad_footprints:Diode_SMD::3
-      (outline (path signal 200  3571.89 -595.314  3571.89 595.314))
-      (outline (path signal 200  3571.89 0  3770.32 0))
-      (outline (path signal 200  3571.89 595.314  1984.38 595.314))
-      (outline (path signal 200  2381.26 -595.314  2381.26 595.314))
-      (outline (path signal 200  1984.38 -595.314  3571.89 -595.314))
-      (outline (path signal 200  1984.38 595.314  1984.38 -595.314))
-      (outline (path signal 200  1785.94 0  1984.38 0))
       (pin Rect[B]Pad_1200.000000x950.000000_um 1 1053.12 0)
       (pin Rect[B]Pad_1200.000000x950.000000_um 2 4503.12 0)
     )
@@ -1313,7 +1302,7 @@
       (keepout "" (circle F.Cu 2200))
       (keepout "" (circle B.Cu 2200))
     )
-    (image _kicad_footprints:Diode_SMD::4
+    (image _kicad_footprints:Diode_SMD::3
       (outline (path signal 200  3571.89 595.314  1984.38 595.314))
       (outline (path signal 200  1984.38 595.314  1984.38 -595.314))
       (outline (path signal 200  3571.89 0  3770.32 0))
@@ -1657,6 +1646,17 @@
       (pin Oval[A]Pad_1700.000000x1700.000000_um 2 1300 -3840)
       (pin Oval[A]Pad_1700.000000x1700.000000_um 3 1300 -6380)
       (pin Oval[A]Pad_1700.000000x1700.000000_um 4 1300 -8920)
+    )
+    (image _kicad_footprints:Diode_SMD::4
+      (outline (path signal 200  3571.89 -595.314  3571.89 595.314))
+      (outline (path signal 200  3571.89 0  3770.32 0))
+      (outline (path signal 200  3571.89 595.314  1984.38 595.314))
+      (outline (path signal 200  2381.26 -595.314  2381.26 595.314))
+      (outline (path signal 200  1984.38 -595.314  3571.89 -595.314))
+      (outline (path signal 200  1984.38 595.314  1984.38 -595.314))
+      (outline (path signal 200  1785.94 0  1984.38 0))
+      (pin Rect[B]Pad_1200.000000x950.000000_um 1 1053.12 0)
+      (pin Rect[B]Pad_1200.000000x950.000000_um 2 4503.12 0)
     )
     (image nofy:Choc_v2_Hotswap_1u_17mm::6
       (outline (path signal 150  1950 -7450  -1900 -7450))
@@ -3125,13 +3125,13 @@
       (pins Con_L_4-2 SW3-C)
     )
     (net RE_B_L
-      (pins Con_L_0-1 SW3-B)
+      (pins Con_L_6-3 SW3-B)
     )
     (net "Net-(D49-A)"
       (pins D49-2 SW53-2)
     )
     (net RE_A_L
-      (pins Con_L_2-2 SW3-A)
+      (pins Con_L_2-4 SW3-A)
     )
     (net "Net-(D48-A)"
       (pins SW52-2 D48-2)
@@ -3203,7 +3203,7 @@
       (pins D14-1 DS2-2 D24-1 D19-1 DI2-2 D1-1 D10-1)
     )
     (net "Net-(D15-K)"
-      (pins DS3-2 D20-1 D2-1 D6-1 DI3-2 D15-1 D25-1)
+      (pins D20-1 D2-1 D6-1 DS3-2 DI3-2 D15-1 D25-1)
     )
     (net "Net-(D11-K)"
       (pins D26-1 DS4-2 D3-1 DI4-2 D21-1 D7-1 D11-1)
@@ -3230,7 +3230,7 @@
       (pins DS10-2 D37-1 DI10-2 D33-1 D46-1 D30-1 D50-1)
     )
     (net "Net-(D31-K)"
-      (pins DI7-2 D31-1 D47-1 DS7-2 D35-1 D39-1 D43-1)
+      (pins D31-1 DI7-2 D47-1 DS7-2 D35-1 D39-1 D43-1)
     )
     (net "Net-(D34-K)"
       (pins D34-1 D42-1 D38-1 J33-4)
@@ -3245,40 +3245,40 @@
       (pins DI7-1 DI9-1 Con_L_8-2 DI10-1 DI11-1 DI8-1)
     )
     (net Pin0
-      (pins SW6-1 Con_L_4-4 DS1-1 J18-1 SW7-1 SW5-1)
+      (pins SW6-1 Con_L_0-3 DS1-1 J18-1 SW7-1 SW5-1)
     )
     (net Pin1
-      (pins Con_L_2-4 SW10-1 DS2-1 SW9-1 J18-2 SW11-1)
+      (pins SW10-1 DS2-1 Con_L_0-4 SW9-1 J18-2 SW11-1)
     )
     (net Pin2
-      (pins DS3-1 Con_L_2-3 SW14-1 SW13-1 SW15-1 J18-3)
+      (pins Con_L_2-3 SW14-1 SW13-1 DS3-1 SW15-1 J18-3)
     )
     (net Pin3
-      (pins Con_L_2-1 DS4-1 SW19-1 SW18-1 SW17-1 SW20-1 SW21-1)
+      (pins DS4-1 SW19-1 SW18-1 SW17-1 Con_L_6-2 SW20-1 SW21-1)
     )
     (net Pin4
-      (pins DS5-1 SW26-1 SW25-1 Con_L_0-4 SW24-1 SW22-1 SW23-1)
+      (pins DS5-1 SW26-1 SW25-1 SW24-1 SW22-1 Con_L_6-1 SW23-1)
     )
     (net Pin5
-      (pins Con_L_0-3 SW29-1 SW31-1 SW30-1 SW27-1 DS6-1 SW28-1)
+      (pins Con_L_4-4 SW29-1 SW31-1 SW30-1 SW27-1 DS6-1 SW28-1)
     )
     (net Pin6
-      (pins SW33-1 Con_L_12-4 DS7-1 SW32-1 SW34-1)
+      (pins SW33-1 DS7-1 Con_L_8-3 SW32-1 SW34-1)
     )
     (net Pin7
-      (pins SW36-1 DS8-1 J32-1 Con_L_14-1 SW37-1 SW35-1)
+      (pins SW36-1 DS8-1 J32-1 Con_L_8-4 SW37-1 SW35-1)
     )
     (net Pin8
-      (pins J32-2 SW40-1 DS9-1 Con_L_14-2 SW39-1 SW41-1)
+      (pins J32-2 SW40-1 DS9-1 Con_L_10-3 SW39-1 SW41-1)
     )
     (net Pin9
-      (pins DS10-1 SW45-1 J32-3 SW44-1 SW43-1 Con_L_10-3)
+      (pins DS10-1 SW45-1 J32-3 SW44-1 SW43-1 Con_L_14-2)
     )
     (net Pin10
-      (pins SW49-1 Con_L_8-4 SW47-1 SW48-1 SW50-1 DS11-1)
+      (pins SW49-1 SW47-1 Con_L_14-1 SW48-1 SW50-1 DS11-1)
     )
     (net Pin11
-      (pins Con_L_8-3 SW52-1 SW51-1 SW53-1 SW54-1 SW55-1)
+      (pins Con_L_12-4 SW52-1 SW51-1 SW53-1 SW54-1 SW55-1)
     )
     (net "unconnected-(J9-nc-Pad5)"
       (pins J9-5)
@@ -3328,17 +3328,14 @@
     (net "Net-(Con_L_5-Pin_3)"
       (pins Xiao0-12 Con_L_5-3)
     )
-    (net "unconnected-(Con_L_6-Pin_2-Pad2)"
-      (pins Con_L_6-2)
-    )
-    (net "unconnected-(Con_L_6-Pin_3-Pad3)"
-      (pins Con_L_6-3)
+    (net "unconnected-(Con_L_0-Pin_1-Pad1)"
+      (pins Con_L_0-1)
     )
     (net "unconnected-(Con_L_6-Pin_4-Pad4)"
       (pins Con_L_6-4)
     )
-    (net "unconnected-(Con_L_6-Pin_1-Pad1)"
-      (pins Con_L_6-1)
+    (net "unconnected-(Con_L_2-Pin_2-Pad2)"
+      (pins Con_L_2-2)
     )
     (net "Net-(Con_L_7-Pin_1)"
       (pins Xiao0-10 Con_L_7-1)
@@ -3400,35 +3397,39 @@
     (net VCC_R
       (pins Con_L_12-1)
     )
+    (net "unconnected-(Con_L_2-Pin_1-Pad1)"
+      (pins Con_L_2-1)
+    )
     (class kicad_default 3.3V Bat Bat_L CS GND_L GND_L_b GND_R GND_R_b INTR0
-      INTR1 MOTION "Net-(B1--)" "Net-(BT1--)" "Net-(Con_L_1-Pin_1)" "Net-(Con_L_1-Pin_2)"
-      "Net-(Con_L_1-Pin_3)" "Net-(Con_L_1-Pin_4)" "Net-(Con_L_11-Pin_1)" "Net-(Con_L_11-Pin_2)"
-      "Net-(Con_L_11-Pin_3)" "Net-(Con_L_11-Pin_4)" "Net-(Con_L_13-Pin_1)"
-      "Net-(Con_L_13-Pin_3)" "Net-(Con_L_13-Pin_4)" "Net-(Con_L_15-Pin_1)"
-      "Net-(Con_L_15-Pin_2)" "Net-(Con_L_15-Pin_3)" "Net-(Con_L_15-Pin_4)"
-      "Net-(Con_L_3-Pin_1)" "Net-(Con_L_3-Pin_2)" "Net-(Con_L_3-Pin_3)" "Net-(Con_L_3-Pin_4)"
-      "Net-(Con_L_5-Pin_1)" "Net-(Con_L_5-Pin_3)" "Net-(Con_L_5-Pin_4)" "Net-(Con_L_7-Pin_1)"
-      "Net-(Con_L_7-Pin_2)" "Net-(Con_L_7-Pin_3)" "Net-(Con_L_7-Pin_4)" "Net-(Con_L_9-Pin_1)"
-      "Net-(Con_L_9-Pin_2)" "Net-(Con_L_9-Pin_3)" "Net-(Con_L_9-Pin_4)" "Net-(D1-A)"
-      "Net-(D1-K)" "Net-(D10-A)" "Net-(D11-A)" "Net-(D11-K)" "Net-(D12-A)"
-      "Net-(D12-K)" "Net-(D13-A)" "Net-(D13-K)" "Net-(D14-A)" "Net-(D15-A)"
-      "Net-(D15-K)" "Net-(D16-A)" "Net-(D16-K)" "Net-(D17-A)" "Net-(D17-K)"
-      "Net-(D18-A)" "Net-(D19-A)" "Net-(D2-A)" "Net-(D20-A)" "Net-(D21-A)"
-      "Net-(D22-A)" "Net-(D23-A)" "Net-(D24-A)" "Net-(D25-A)" "Net-(D26-A)"
-      "Net-(D27-A)" "Net-(D28-A)" "Net-(D28-K)" "Net-(D29-A)" "Net-(D29-K)"
-      "Net-(D3-A)" "Net-(D30-A)" "Net-(D30-K)" "Net-(D31-A)" "Net-(D31-K)"
-      "Net-(D32-A)" "Net-(D33-A)" "Net-(D34-A)" "Net-(D34-K)" "Net-(D35-A)"
-      "Net-(D36-A)" "Net-(D37-A)" "Net-(D38-A)" "Net-(D39-A)" "Net-(D4-A)"
-      "Net-(D40-A)" "Net-(D41-A)" "Net-(D42-A)" "Net-(D43-A)" "Net-(D44-A)"
-      "Net-(D45-A)" "Net-(D46-A)" "Net-(D47-A)" "Net-(D48-A)" "Net-(D49-A)"
-      "Net-(D5-A)" "Net-(D50-A)" "Net-(D51-A)" "Net-(D51-K)" "Net-(D6-A)"
-      "Net-(D7-A)" "Net-(D8-A)" "Net-(D9-A)" "Net-(J21-Pin_1)" "Net-(J21-Pin_2)"
-      "Net-(J21-Pin_3)" "Net-(J33-Pin_1)" "Net-(J33-Pin_2)" "Net-(J33-Pin_3)"
-      Pin0 Pin1 Pin10 Pin11 Pin2 Pin3 Pin4 Pin5 Pin6 Pin7 Pin8 Pin9 RE_A_L
-      RE_A_R RE_B_L RE_B_R SCLK SDIO VCC_L VCC_R "unconnected-(Con_L_4-Pin_3-Pad3)"
-      "unconnected-(Con_L_6-Pin_1-Pad1)" "unconnected-(Con_L_6-Pin_2-Pad2)"
-      "unconnected-(Con_L_6-Pin_3-Pad3)" "unconnected-(Con_L_6-Pin_4-Pad4)"
-      "unconnected-(J9-nc-Pad5)" "unconnected-(SW3-A-Pad1)" "unconnected-(SW4-A-Pad1)"
+      INTR1 MOTION "Net-(B1--)" "Net-(BT0--)" "Net-(BT1--)" "Net-(Con_L_1-Pin_1)"
+      "Net-(Con_L_1-Pin_2)" "Net-(Con_L_1-Pin_3)" "Net-(Con_L_1-Pin_4)" "Net-(Con_L_11-Pin_1)"
+      "Net-(Con_L_11-Pin_2)" "Net-(Con_L_11-Pin_3)" "Net-(Con_L_11-Pin_4)"
+      "Net-(Con_L_13-Pin_1)" "Net-(Con_L_13-Pin_3)" "Net-(Con_L_13-Pin_4)"
+      "Net-(Con_L_15-Pin_1)" "Net-(Con_L_15-Pin_2)" "Net-(Con_L_15-Pin_3)"
+      "Net-(Con_L_15-Pin_4)" "Net-(Con_L_3-Pin_1)" "Net-(Con_L_3-Pin_2)" "Net-(Con_L_3-Pin_3)"
+      "Net-(Con_L_3-Pin_4)" "Net-(Con_L_5-Pin_1)" "Net-(Con_L_5-Pin_3)" "Net-(Con_L_5-Pin_4)"
+      "Net-(Con_L_7-Pin_1)" "Net-(Con_L_7-Pin_2)" "Net-(Con_L_7-Pin_3)" "Net-(Con_L_7-Pin_4)"
+      "Net-(Con_L_9-Pin_1)" "Net-(Con_L_9-Pin_2)" "Net-(Con_L_9-Pin_3)" "Net-(Con_L_9-Pin_4)"
+      "Net-(D1-A)" "Net-(D1-K)" "Net-(D10-A)" "Net-(D11-A)" "Net-(D11-K)"
+      "Net-(D12-A)" "Net-(D12-K)" "Net-(D13-A)" "Net-(D13-K)" "Net-(D14-A)"
+      "Net-(D15-A)" "Net-(D15-K)" "Net-(D16-A)" "Net-(D16-K)" "Net-(D17-A)"
+      "Net-(D17-K)" "Net-(D18-A)" "Net-(D19-A)" "Net-(D2-A)" "Net-(D20-A)"
+      "Net-(D21-A)" "Net-(D22-A)" "Net-(D23-A)" "Net-(D24-A)" "Net-(D25-A)"
+      "Net-(D26-A)" "Net-(D27-A)" "Net-(D28-A)" "Net-(D28-K)" "Net-(D29-A)"
+      "Net-(D29-K)" "Net-(D3-A)" "Net-(D30-A)" "Net-(D30-K)" "Net-(D31-A)"
+      "Net-(D31-K)" "Net-(D32-A)" "Net-(D33-A)" "Net-(D34-A)" "Net-(D34-K)"
+      "Net-(D35-A)" "Net-(D36-A)" "Net-(D37-A)" "Net-(D38-A)" "Net-(D39-A)"
+      "Net-(D4-A)" "Net-(D40-A)" "Net-(D41-A)" "Net-(D42-A)" "Net-(D43-A)"
+      "Net-(D44-A)" "Net-(D45-A)" "Net-(D46-A)" "Net-(D47-A)" "Net-(D48-A)"
+      "Net-(D49-A)" "Net-(D5-A)" "Net-(D50-A)" "Net-(D51-A)" "Net-(D51-K)"
+      "Net-(D6-A)" "Net-(D7-A)" "Net-(D8-A)" "Net-(D9-A)" "Net-(J21-Pin_1)"
+      "Net-(J21-Pin_2)" "Net-(J21-Pin_3)" "Net-(J33-Pin_1)" "Net-(J33-Pin_2)"
+      "Net-(J33-Pin_3)" Pin0 Pin1 Pin10 Pin11 Pin2 Pin3 Pin4 Pin5 Pin6 Pin7
+      Pin8 Pin9 RE_A_L RE_A_R RE_B_L RE_B_R SCLK SDIO VCC_L VCC_R "unconnected-(Con_L_0-Pin_1-Pad1)"
+      "unconnected-(Con_L_2-Pin_1-Pad1)" "unconnected-(Con_L_2-Pin_2-Pad2)"
+      "unconnected-(Con_L_4-Pin_3-Pad3)" "unconnected-(Con_L_6-Pin_4-Pad4)"
+      "unconnected-(J9-nc-Pad5)" "unconnected-(SW1-A-Pad1)" "unconnected-(SW2-A-Pad1)"
+      "unconnected-(SW3-A-Pad1)" "unconnected-(SW4-A-Pad1)"
       (circuit
         (use_via "Via[0-1]_600:300_um")
       )
